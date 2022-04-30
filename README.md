@@ -56,9 +56,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
 <p align="center">
     <a href="#">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=oThinas&theme=dark&date_format=j%2Fn%5B%2FY%5D" height="165px"/>
