@@ -2,13 +2,9 @@
 <h3 align="center">Técnico pela ETEC Albert Einstein e Graduando na FIAP.</h3>
 <h3 align="center">Análise e Desenvolvimento de Sistemas.</h3>
 
-<br>
+<hr />
 
-<p>
-    <img align="right" src="https://github.com/oThinas/oThinas/blob/main/assets/readme.gif" alt="Code GIF"/>
-</p>
-
-<p><em>"A morte só é horrível àqueles que amam viver."<em></p>
+<p align="center"><em>"A morte só é horrível àqueles que amam viver."<em></p>
 
 <h3 align="left">Se conecte comigo:</h3>
 <a href="https://www.linkedin.com/in/thiago-martins-prado-19b64a232/" targer="_blank">
@@ -48,17 +44,46 @@
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge" />
     </a>
 </p>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<hr />
+    
+<h3>Projetos Pessoais:</h3>
+<ul>
+    <li>
+        <a href="https://github.com/oThinas/beauty-salon">Beauty Salon</a>
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>JavaScript</li>
+        </ul>
+    </li>
+    <li>
+        <a href="https://github.com/oThinas/projeto-rocketq">RocketQ</a>
+        <ul>
+            <li>HTML5, CSS, JavaScript</li>
+            <li>NodeJS</li>
+            <li>EJS</li>
+            <li>Express</li>
+            <li>SQLite</li>
+        </ul>
+    </li>
+    <li>
+        <a href="https://github.com/oThinas/letmeask">Let me Ask</a>
+        <ul>
+            <li>React</li>
+            <li>TypeScript</li>
+            <li>Firebase</li>
+        </ul>
+    </li>
+    <li>
+        <a href="https://github.com/oThinas/banco">Banco Console</a>
+        <ul>
+            <li>Java SE-18</li>
+        </ul>
+    </li>
+</ul>
+
+    
+<hr />
 <p align="center">
     <a href="#">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=oThinas&theme=dark&date_format=j%2Fn%5B%2FY%5D" height="165px"/>
