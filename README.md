@@ -49,7 +49,15 @@
 <h3>Projetos Pessoais:</h3>
 <ul>
     <li>
-        <a href="https://othinas.github.io/beauty-salon">Beauty Salon</a>
+        <a href="https://github.com/oThinas/letmeask" target="_blank">Let me Ask (em andamento)</a>
+        <ul>
+            <li>React</li>
+            <li>TypeScript</li>
+            <li>Firebase</li>
+        </ul>
+    </li>
+    <li>
+        <a href="https://othinas.github.io/beauty-salon" target="_blank">Beauty Salon</a>
         <ul>
             <li>HTML5</li>
             <li>CSS3</li>
@@ -57,7 +65,7 @@
         </ul>
     </li>
     <li>
-        <a href="https://github.com/oThinas/projeto-rocketq">RocketQ</a>
+        <a href="https://github.com/oThinas/projeto-rocketq" target="_blank">RocketQ</a>
         <ul>
             <li>HTML5, CSS, JavaScript</li>
             <li>NodeJS</li>
@@ -67,15 +75,7 @@
         </ul>
     </li>
     <li>
-        <a href="https://github.com/oThinas/letmeask">Let me Ask</a>
-        <ul>
-            <li>React</li>
-            <li>TypeScript</li>
-            <li>Firebase</li>
-        </ul>
-    </li>
-    <li>
-        <a href="https://github.com/oThinas/banco">Banco Console</a>
+        <a href="https://github.com/oThinas/banco" target="_blank">Banco Console</a>
         <ul>
             <li>Java SE-18</li>
         </ul>
