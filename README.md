@@ -49,7 +49,7 @@
 <h3>Projetos Pessoais:</h3>
 <ul>
     <li>
-        <a href="https://github.com/oThinas/beauty-salon">Beauty Salon</a>
+        <a href="https://othinas.github.io/beauty-salon">Beauty Salon</a>
         <ul>
             <li>HTML5</li>
             <li>CSS3</li>
