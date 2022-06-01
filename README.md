@@ -4,8 +4,6 @@
 
 <hr />
 
-<p align="center"><em>"A morte só é horrível àqueles que amam viver."<em></p>
-
 <h3 align="left">Se conecte comigo:</h3>
 <a href="https://www.linkedin.com/in/thiago-martins-prado-19b64a232/" targer="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
