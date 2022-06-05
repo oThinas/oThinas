@@ -80,7 +80,6 @@
     </li>
 </ul>
 
-    
 <hr />
 <p align="center">
     <a href="#">
