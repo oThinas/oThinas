@@ -51,6 +51,7 @@
         <ul>
             <li>React</li>
             <li>TypeScript</li>
+            <li>Sass</li>
             <li>Firebase</li>
         </ul>
     </li>
