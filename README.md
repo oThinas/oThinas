@@ -47,7 +47,7 @@
 <h3>Projetos Pessoais:</h3>
 <ul>
     <li>
-        <a href="[https://github.com/oThinas/letmeask](https://letmeask-8e5f9.web.app)" target="_blank">Let me Ask (em andamento)</a>
+        <a href="https://letmeask-8e5f9.web.app" target="_blank">Let me Ask (em andamento)</a>
         <ul>
             <li>React</li>
             <li>TypeScript</li>
