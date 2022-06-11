@@ -2,7 +2,7 @@
 <h3 align="center">Técnico pela ETEC Albert Einstein e Graduando na FIAP.</h3>
 <h3 align="center">Análise e Desenvolvimento de Sistemas.</h3>
 
-<hr />
+<hr/>
 
 <h3 align="left">Se conecte comigo:</h3>
 <a href="https://www.linkedin.com/in/thiago-martins-prado-19b64a232/" targer="_blank">
