@@ -14,6 +14,18 @@
 
 ###
 
+<h3 align="center">Ouvi recentemente</h3>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Thinas">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dx5p5ze7wy56f2k3b7ag4fhmay" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 <h2 align="left">Projetos pessoais</h2>
 
 ###
@@ -71,16 +83,6 @@
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=oThinas&theme=material-palenight&hide_border=true&date_format=j%2Fn%5B%2FY%5D" height="165px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=default &card_width=320&langs_count=5&theme=material-palenight&hide_border=true&custom_title=Linguagens mais utilizadas&username=oThinas" height="165" alt="languages graph"  />
-</div>
-
-###
-
-<br><br><br>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Thinas">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dx5p5ze7wy56f2k3b7ag4fhmay" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
