@@ -43,7 +43,7 @@
 
 ###
 
-<li><h3 align="left"><a href="https://othinas.github.io/beauty-salon" target="_blank">RocketQ</a></h3></li>
+<li><h3 align="left"><a href="https://github.com/oThinas/projeto-rocketq" target="_blank">RocketQ</a></h3></li>
 
 ###
 
