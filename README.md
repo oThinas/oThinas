@@ -30,7 +30,7 @@
 
 ###
 <ul>
-<li>h3 align=""><a href="https://github.com/oThinas/event-platform" target"_blank">Event Platform</a></li>
+<li><h3 align="left"><a href="https://github.com/oThinas/event-platform" target"_blank">Event Platform</a></h3></li>
 
 ###
   
