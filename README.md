@@ -30,7 +30,22 @@
 
 ###
 <ul>
-<li><h3 align="left"><a href="https://letmeask-8e5f9.web.app" target="_blank">Let me ask</a></h3></li>
+<li>h3 align=""><a href="https://github.com/oThinas/event-platform" target"_blank">Event Platform</a></li>
+
+###
+  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="52" alt="graphql logo"  />
+</div>
+
+###
+
+###
+
+<li><h3 align="left"><a href="https://github.com/oThinas/letmeask" target="_blank">Let me ask</a></h3></li>
 
 ###
 
