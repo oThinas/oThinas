@@ -96,8 +96,8 @@
 <br><br><br>
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=oThinas&theme=material-palenight&hide_border=true&date_format=j%2Fn%5B%2FY%5D" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=default &card_width=320&langs_count=5&theme=material-palenight&hide_border=true&custom_title=Linguagens mais utilizadas&username=oThinas" height="165" alt="languages graph"  />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=oThinas&theme=material-palenight&hide_border=true&date_format=j%2Fn%5B%2FY%5D" height="165px" alt="user stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=default &card_width=320&langs_count=5&theme=material-palenight&hide_border=true&custom_title=Linguagens mais utilizadas&username=oThinas" height="165px" alt="languages graph"  />
 </div>
 
 ###
