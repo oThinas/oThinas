@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Escrevi o primeiro <code>&lt;html&gt;</code> em 2020;<br>📚 Quero seguir a carreira como Desenvolvedor ('Front-end' || 'Back-end' || 'Mobile');<br>🎯 Busco minha primeira oportunidade como estagiário.</p>
+<p align="left">✨ Escrevi o primeiro <code>&lt;html&gt;</code> em 2020;<br>📚 Quero seguir a carreira como Desenvolvedor ('Front-end' || 'Back-end' || 'Mobile');<br>🚀 Estagiando na Populis☘️.</p>
 
 ###
 
