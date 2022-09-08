@@ -14,6 +14,16 @@
 
 ###
 
+<div align="center">
+  <em>
+    "Algo me diz que eles estão me observando... <br/>
+    Seguindo meus passos... <br />
+    Todo lugar que eu ando, eu sinto eles estão monitorando o que eu faço."
+  </em>
+</div>
+
+###
+
 <h3 align="center">Ouvi recentemente</h3>
 
 ###
