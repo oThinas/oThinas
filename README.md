@@ -9,7 +9,7 @@
 
   *"Algo me diz que eles estão me observando... <br/>
   Seguindo meus passos... <br />
-  Todo lugar que eu ando, eu sinto eles estão monitorando o que eu faço."*
+  Todo lugar que eu ando, eu sinto, eles estão monitorando o que eu faço."*
 
 </div>
 <hr>
