@@ -1,8 +1,8 @@
-# Sobre mim
+# About me
 
-✨ Escrevi o primeiro ```<html>``` em 2020;<br>
-📚 Quero seguir a carreira como ```Desenvolvedor ('Front-end' || 'Back-end' || 'Mobile')```;<br>
-🚀 Estagiando na Populis☘️.<br><br>
+✨ I wrote my first ```<html>``` in 2020;<br>
+📚 I want to follow career as ```('Front-end' || 'Back-end' || 'Mobile') Developer```;<br>
+🚀 Trainee on Populis☘️.<br><br>
 
 <hr>
 <div align="center">
@@ -18,14 +18,14 @@
 
 <div align="center">
 
-## Ouvi recentemente
+## I heard recently
 
   ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31dx5p5ze7wy56f2k3b7ag4fhmay)
 
 </div>
 <br><br>
 
-# Projetos pessoais
+# Personal Projects
 
 ## [Find my duo](https://github.com/oThinas/find-my-duo) <br />
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
