@@ -1,8 +1,8 @@
 # About me
 
 ✨ I wrote my first ```<html>``` in 2020;<br>
-📚 I want to follow career as ```('Front-end' || 'Back-end' || 'Mobile') Developer```;<br>
-🚀 Trainee on Populis☘️.<br><br>
+📚 I want to follow career as ```Developer```;<br>
+🚀 Developer on Populis☘️.<br><br>
 
 <hr>
 <div align="center">
@@ -14,15 +14,6 @@
 </div>
 <hr>
 
-<br><br>
-
-<div align="center">
-
-## I heard recently
-
-  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31dx5p5ze7wy56f2k3b7ag4fhmay)
-
-</div>
 <br><br>
 
 # Personal Projects
