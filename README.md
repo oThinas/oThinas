@@ -70,8 +70,6 @@
 <hr>
 
 <div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oThinas&theme=material-palenight&hide_border=true" height="165px" alt="user stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oThinas&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="165px" alt="user stats" />
 
