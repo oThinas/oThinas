@@ -1,7 +1,7 @@
 # About me
 
-✨ I wrote my first ```<html>``` in 2020;<br>
-📚 I want to follow career as ```Developer```;<br>
+✨ I wrote my first ```<html>``` in 2019;<br>
+📚 I want to follow career as ```Fullstack Developer```;<br>
 🚀 Developer on Populis☘️.<br><br>
 
 <hr>
