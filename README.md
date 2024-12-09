@@ -2,7 +2,7 @@
 
 ✨ I wrote my first ```<html>``` in 2019;<br>
 📚 I want to follow career as ```Fullstack Developer```;<br>
-🚀 Developer on Populis☘️.<br><br>
+🚀 Developer at Populis☘️.<br><br>
 
 <hr>
 <div align="center">
